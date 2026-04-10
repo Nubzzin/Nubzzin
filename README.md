@@ -29,7 +29,6 @@ I'm a Software engineer with a focus on software development, database managemen
     <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq" width="80px"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width='80px'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="80px"/>
-    <img src="https://camo.githubusercontent.com/ab670630c04fa5e757ef1c83ef29401410e6b6be1f47c4dd6dddad7ba616c80b/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3235362f312a46454539386957696e6c5a42596b78424147384d76412e706e67" width="90px"/>
     <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="80px"/>
 
 </div>
