@@ -1,51 +1,48 @@
 # Hi, I'm Matheus
+Systems Analysis and Development student at Fatec Jundiaí, with a focus on software engineering and low-level programming. I enjoy building things from scratch, from web apps to compilers and graphics programs.
 
-I'm a Software engineer with a focus on software development, database management, and data structures and also a college student coursing Systems Analysis and Development.
+## Languages
 
-<!-- ![Matheus' Stats](https://github-readme-stats.vercel.app/api?username=matheusCsousa&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusCsousa&layout=compact&theme=dracula&hide_border=true&exclude_repo=Movie-finder-react) -->
-
-
-
-
-
-## What do I know?:
-
-**Programming Languages:**
-<div style='display: flex;'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width='80px'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width='80px'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="80px"/>
-    <img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" width='80px'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='80px'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="80px"/>
+<div style='display: flex; gap: 8px; flex-wrap: wrap;'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width='60px'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width='60px'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width='60px'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width='60px'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='60px'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60px"/>
 </div>
 
-**Tools:**
-<div style='display: flex;'>
-    <img src="https://images.icon-icons.com/2108/PNG/512/react_icon_130845.png" width="80px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='80px'/>
-    <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq" width="80px"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width='80px'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="80px"/>
-    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="80px"/>
+## Frameworks & Tools
 
+<div style='display: flex; gap: 8px; flex-wrap: wrap;'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='60px'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60px"/>
 </div>
 
-**Databases:**
-<div style='display: flex;'>
-    <img src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png" width='80px'/>
-    <img src="https://cdn-icons-png.freepik.com/256/17266/17266017.png?semt=ais_hybrid" width="80px"/>
+## Databases
+
+<div style='display: flex; gap: 8px; flex-wrap: wrap;'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width='60px'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60px"/>
 </div>
 
-**Operating Systems:**
-<div style='display: flex;'>
-    <img src="https://images.icon-icons.com/2235/PNG/512/windows_os_logo_icon_134674.png" width="90px"/>
-    <img src="https://cdn-icons-png.flaticon.com/256/518/518713.png" width='80px'/>
+## Operating Systems
+
+<div style='display: flex; gap: 8px; flex-wrap: wrap;'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width='60px'/>
 </div>
 
-# Links
+## Links
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-correia-de-sousa)
 [![Email](https://img.shields.io/badge/E--mail-grey?style=for-the-badge&logo=gmail)](mailto:matheuscds.contato@gmail.com)
-
